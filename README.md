@@ -26,7 +26,7 @@ Fraud labels (fraudulent or not)
 
 Installation & Usage
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/RijeshKrishna/Insurance-Fraud-Detection-Model
 cd your-repo
 
 2️⃣ Install Dependencies

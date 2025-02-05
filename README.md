@@ -6,10 +6,15 @@ Overview
 This project uses machine learning to detect fraudulent insurance claims. By analyzing policyholder data, claim details, and incident reports, the model helps identify suspicious claims, reducing financial losses for insurers.
 
 Features
+
 ✅ Preprocesses structured and categorical data
+
 ✅ Detects fraudulent claims using machine learning models
+
 ✅ One-hot encoding for categorical features
+
 ✅ Explainability with SHAP/LIME (optional)
+
 ✅ Human-in-the-Loop (HITL) integration for better decision-making
 
 Technologies Used

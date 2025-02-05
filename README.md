@@ -2,7 +2,7 @@
 A machine learning-based system to identify fraudulent insurance claims and prevent financial losses.
 
 Insurance Fraud Detection 🚀
-Overview
+Overview 
 This project uses machine learning to detect fraudulent insurance claims. By analyzing policyholder data, claim details, and incident reports, the model helps identify suspicious claims, reducing financial losses for insurers.
 
 Features
